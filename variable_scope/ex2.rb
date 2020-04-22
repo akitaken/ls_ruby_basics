@@ -7,4 +7,4 @@ end
 my_value(a)
 puts a
 
-# => 
+# => 7
